@@ -1,7 +1,7 @@
 ## Index
-Motivacion
-Preguntar
-Conclusion
+1.Motivacion
+2.Preguntar
+3.Conclusion
 ## Motivacion 
 Aproba el exanem
 ## Preguntar
